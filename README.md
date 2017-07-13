@@ -1,1 +1,1 @@
-# communitips_project1
+# This repository is communitips project for web.
